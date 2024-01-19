@@ -17,7 +17,7 @@
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/versatile-bubble-sort.git
+   git clone https://github.com/ehh67855/Bubble-Sort-Tester.git
 
 ### Tests
 **The test suite includes the following functions**:
